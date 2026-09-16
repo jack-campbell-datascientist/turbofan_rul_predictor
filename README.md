@@ -2,7 +2,7 @@
 
 Predict the remaining useful life of NASA C-MAPSS turbofan engines using sensor data.
 
-**Live Demo:** [Add Streamlit Cloud link here later]
+**Live Demo:** https://turbofanrulpredictor-s5pdtkkefgfojjm3vdt9wz.streamlit.app/
 
 ## Project Overview
 This project uses the NASA C-MAPSS FD001 dataset to train an XGBoost regression model that estimates Remaining Useful Life (RUL) from the latest sensor readings of a turbofan engine.
